@@ -265,6 +265,6 @@ Data Structures project, FAST-NUCES Karachi.
 
 | Name | Roll number | Module |
 | ---- | ----------- | ------ |
-| *Member 1* | 25K-XXXX | Graph |
-| *Member 2* | 25K-XXXX | Queue and algorithms |
-| *Member 3* | 25K-XXXX | Files, security and menu |
+| Muhammad Ali | 25K-0657 | Graph |
+| Abdul Hadi Ahmed | 25K-0695 | Queue and algorithms |
+| Muhammad Umer | 25K-0983 | Files, security and menu |
