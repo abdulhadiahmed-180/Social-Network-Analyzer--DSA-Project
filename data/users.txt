@@ -1,0 +1,13 @@
+# id|name|age|city|profession|contact
+1|Ali Khan|21|Karachi|Student|+923001234567
+2|Sara Ahmed|25|Lahore|Engineer|03001234568
+3|Omar Farooq|30|Karachi|Teacher|03111234567
+4|Hina Malik|28|Lahore|Doctor|03221234567
+5|Bilal Raza|24|Karachi|Engineer|03331234567
+6|Ayesha Noor|22|Islamabad|Student|03441234567
+7|Usman Ali|35|Lahore|Lawyer|03451234567
+8|Zara Sheikh|27|Karachi|Designer|03461234567
+9|Fahad Mir|31|Quetta|Clerk|03451112222
+10|Fahad M|32|Quetta|Clerk|03451112222
+11|Nida Khan|29|Multan|Teacher|03471234567
+12|Kamran Butt|40|Karachi|Merchant|03481234567
